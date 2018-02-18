@@ -1,0 +1,7 @@
+.pioenvs
+.piolibdeps
+.vscode/
+.vscode/
+lib/readme.txt
+.travis.yml
+/lib/SegmentDisplay_Cathode47
