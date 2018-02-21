@@ -4,5 +4,9 @@
 .vscode/
 lib/readme.txt
 .travis.yml
+<<<<<<< HEAD
 .vscode/c_cpp_properties.json
 .vscode/launch.json
+=======
+/lib/SegmentDisplay_Cathode47
+>>>>>>> ce4bcc643ea47244974b6545837848fcdb0ecc4b
